@@ -12,6 +12,9 @@
 
 <p align="left"> <a href="https://twitter.com/gurudattch" target="blank"><img src="https://img.shields.io/twitter/follow/gurudattch?logo=twitter&style=for-the-badge" alt="gurudattch" /></a> </p>
 
+
+![THM](https://tryhackme-badges.s3.amazonaws.com/Guru455.png)
+
 - 👨‍💻 checkout my portfolio website [portfolio](https://gurudattch.github.io)
 
 - 📝 I oftenly write articles on [Medium](https://gurudattchoudhary.medium.com)
