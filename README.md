@@ -1,8 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-I am a cyber security researcher 
-
+![banner](https://github.com/gurudattch/gurudattch/blob/main/banner.png)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gurudatt-choudhary) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@gurudattchoudhary) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/gurudattch) 
