@@ -14,7 +14,7 @@
 
 - 👨‍💻 checkout my portfolio website [portfolio](https://gurudattch.github.io)
 
-- 📝 I oftenly write articles on [Medium](https://gurudattchoudhary.medium.com.)
+- 📝 I oftenly write articles on [Medium](https://gurudattchoudhary.medium.com)
 
 - ⚡ Fun fact **I can't hack your Gf/Bf's Facebook/Instagram**
 
