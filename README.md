@@ -12,9 +12,9 @@
 
 <p align="left"> <a href="https://twitter.com/gurudattch" target="blank"><img src="https://img.shields.io/twitter/follow/gurudattch?logo=twitter&style=for-the-badge" alt="gurudattch" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://gurudattch.github.io](gurudattch.github.io)
+- 👨‍💻 checkout my portfolio website [portfolio](https://gurudattch.github.io)
 
-- 📝 I oftenly write articles on [gurudattchoudhary.medium.com.](gurudattchoudhary.medium.com.)
+- 📝 I oftenly write articles on [Medium](https://gurudattchoudhary.medium.com.)
 
 - ⚡ Fun fact **I can't hack your Gf/Bf's Facebook/Instagram**
 
